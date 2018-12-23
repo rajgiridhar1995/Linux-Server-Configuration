@@ -40,3 +40,10 @@ And python2 packages like flask, SQLAlchemy, oauth2client, httplib2, psycopg2.
 - Apache web server was configured to serve the python application on port 80 (default port for http).
 
 - Instead of using sqlite as a database in the flask application, postgresql was used and a new user `catalog` was created in database with password `password`.
+
+## References
+
+1) https://www.digitalocean.com/community/tutorials/how-to-setup-a-firewall-with-ufw-on-an-ubuntu-and-debian-cloud-server
+2) https://www.digitalocean.com/community/tutorials/how-to-deploy-a-flask-application-on-an-ubuntu-vps
+3) https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu-14-04
+4) https://www.digitalocean.com/community/tutorials/how-to-install-linux-nginx-mysql-php-lemp-stack-on-ubuntu-14-04
